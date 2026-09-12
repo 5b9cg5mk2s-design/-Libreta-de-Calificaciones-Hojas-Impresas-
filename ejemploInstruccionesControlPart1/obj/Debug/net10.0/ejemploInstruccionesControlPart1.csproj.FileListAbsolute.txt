@@ -1,0 +1,15 @@
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\bin\Debug\net10.0\ejemploInstruccionesControlPart1.exe
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\bin\Debug\net10.0\ejemploInstruccionesControlPart1.deps.json
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\bin\Debug\net10.0\ejemploInstruccionesControlPart1.runtimeconfig.json
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\bin\Debug\net10.0\ejemploInstruccionesControlPart1.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\bin\Debug\net10.0\ejemploInstruccionesControlPart1.pdb
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.AssemblyInfo.cs
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\refint\ejemploInstruccionesControlPart1.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.pdb
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploInstruccionesControlPart1.genruntimeconfig.cache
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ref\ejemploInstruccionesControlPart1.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesControlPart1\obj\Debug\net10.0\ejemploI.001E1958.Up2Date

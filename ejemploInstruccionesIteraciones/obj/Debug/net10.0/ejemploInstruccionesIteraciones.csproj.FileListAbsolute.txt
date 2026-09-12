@@ -1,0 +1,15 @@
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\bin\Debug\net10.0\ejemploInstruccionesIteraciones.exe
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\bin\Debug\net10.0\ejemploInstruccionesIteraciones.deps.json
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\bin\Debug\net10.0\ejemploInstruccionesIteraciones.runtimeconfig.json
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\bin\Debug\net10.0\ejemploInstruccionesIteraciones.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\bin\Debug\net10.0\ejemploInstruccionesIteraciones.pdb
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.AssemblyInfo.cs
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\refint\ejemploInstruccionesIteraciones.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.pdb
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploInstruccionesIteraciones.genruntimeconfig.cache
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ref\ejemploInstruccionesIteraciones.dll
+C:\Users\vikst\source\repos\ejemploInstruccionesIteraciones\obj\Debug\net10.0\ejemploI.A1AA8884.Up2Date
